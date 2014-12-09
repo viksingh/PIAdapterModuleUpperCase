@@ -15,3 +15,9 @@
         </session>
     </enterprise-beans>
 </ejb-jar>
+
+
+Remote interface: com.sap.aii.af.lib.mp.module.ModuleRemote
+Home interface: com.sap.aii.af.lib.mp.module.ModuleHome
+Local interface: com.sap.aii.af.lib.mp.module.ModuleLocal
+LocalHome interface: com.sap.aii.af.lib.mp.module.ModuleLocalHome
