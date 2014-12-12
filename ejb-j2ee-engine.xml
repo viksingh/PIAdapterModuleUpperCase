@@ -9,3 +9,6 @@
 		</enterprise-bean>
 	</enterprise-beans>
 </ejb-j2ee-engine>
+
+******
+The module name will be configured with the JNDI name .
